@@ -26,4 +26,5 @@ Validate setup with Python scripts using Netmiko.
 <img width="541" height="539" alt="image" src="https://github.com/user-attachments/assets/5cbb8f9b-a1d6-4a00-918e-03f23a90f884" />
 <img width="578" height="631" alt="image" src="https://github.com/user-attachments/assets/e8c3ae14-fc6b-4614-b85f-cb6e8dbfb6b8" />
 <img width="682" height="178" alt="image" src="https://github.com/user-attachments/assets/a1e1501d-887c-4364-9d9f-0227bb6d216e" />
+<img width="704" height="180" alt="image" src="https://github.com/user-attachments/assets/1b88e69c-4b25-4319-aa61-b2be83130ff5" />
 
