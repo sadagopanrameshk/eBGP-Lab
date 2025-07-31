@@ -17,6 +17,7 @@ Validate setup with Python scripts using Netmiko.
 - Get a list of IPs from the user to connect
 - Loop through each IP address and connect
 - Get a list of configuration commands from the user to configure in each device from IP list.
+- take backup of devices
 
 ## 💻 Python Validator script
 - Ping test via Loopback
